@@ -5,6 +5,7 @@ Follow the instructions below to run the repo on your machine.
 ### Setting up dev environment
 * Install NodeJs
 * A text editor
+* A package manager of your choice
 
 ### Steps to run code
 
