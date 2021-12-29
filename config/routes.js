@@ -2,7 +2,7 @@ const records = require("../models/records");
 const checkInputs = require("../helpers/sanityCheck");
 
 const addPageRoutes = (app) => {
-  app.post("/getentry", checkInputs, (req, res) => {
+  app.post("/getrecords", checkInputs, (req, res) => {
     const { startDate, endDate, minCount, maxCount } = req.body;
 
     records
