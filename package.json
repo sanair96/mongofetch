@@ -9,7 +9,7 @@
     "body-parser": "^1.19.1",
     "dot-env": "^0.0.1",
     "express": "^4.17.2",
-    "mongoose": "^6.1.4"
+    "mongoose": "^6.4.6"
   },
   "scripts": {
     "test": "jest",
