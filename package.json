@@ -8,7 +8,7 @@
   "dependencies": {
     "body-parser": "^1.19.1",
     "dot-env": "^0.0.1",
-    "express": "^4.17.2",
+    "express": "^4.17.3",
     "mongoose": "^6.1.4"
   },
   "scripts": {
